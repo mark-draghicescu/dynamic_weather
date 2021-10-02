@@ -14,7 +14,7 @@ CarlaUE.exe
 
 The Unreal Simulator will launch and you will see a birds-eye view of the default map, **Town10**, as shown below. Learn more about changing maps [here](https://carla.readthedocs.io/en/0.9.12/tuto_G_retrieve_data/#map-setting).
 
-![CARLA Map](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/map_view.jpg)
+![CARLA Map](https://github.com/mark-draghicescu/dynamic_weather/blob/main/map_view.jpg?raw=true)
 
 *Bird's eye view of Town10*
 
