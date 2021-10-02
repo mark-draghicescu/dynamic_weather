@@ -30,6 +30,6 @@ python dynamic_weather.py --speed 1.0
 
 Example of dynamic weather change (speed 50.0).
 
-![CARLA Dynamic Weather](https://github.com/mark-draghicescu/Self-Driving-Car-Engineer-Nanodegree/blob/master/dynamic_weather.gif)
+![CARLA Dynamic Weather](https://github.com/mark-draghicescu/dynamic_weather/blob/main/dynamic_weather.gif?raw=true)
 
 *Dynamic weather changing Town10*
